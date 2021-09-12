@@ -1,0 +1,15 @@
+{
+  "name": "Frame.js",
+  "short_name": "Frame.js",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "theme_color": "#333",
+  "icons": [
+    {
+      "src": "./files/icon.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ]
+}
